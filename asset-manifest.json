@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pagina-pessoal/static/css/main.2846c092.chunk.css",
+    "main.js": "/pagina-pessoal/static/js/main.408addd5.chunk.js",
+    "main.js.map": "/pagina-pessoal/static/js/main.408addd5.chunk.js.map",
+    "runtime-main.js": "/pagina-pessoal/static/js/runtime-main.6bb86fdf.js",
+    "runtime-main.js.map": "/pagina-pessoal/static/js/runtime-main.6bb86fdf.js.map",
+    "static/js/2.95903458.chunk.js": "/pagina-pessoal/static/js/2.95903458.chunk.js",
+    "static/js/2.95903458.chunk.js.map": "/pagina-pessoal/static/js/2.95903458.chunk.js.map",
+    "index.html": "/pagina-pessoal/index.html",
+    "precache-manifest.30307a129bfebfb9dd4ef0e202499e38.js": "/pagina-pessoal/precache-manifest.30307a129bfebfb9dd4ef0e202499e38.js",
+    "service-worker.js": "/pagina-pessoal/service-worker.js",
+    "static/css/main.2846c092.chunk.css.map": "/pagina-pessoal/static/css/main.2846c092.chunk.css.map",
+    "static/media/fog.png": "/pagina-pessoal/static/media/fog.e7a6bd96.png",
+    "static/media/me.png": "/pagina-pessoal/static/media/me.c2d53a4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb86fdf.js",
+    "static/js/2.95903458.chunk.js",
+    "static/css/main.2846c092.chunk.css",
+    "static/js/main.408addd5.chunk.js"
+  ]
+}
