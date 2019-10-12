@@ -5,7 +5,7 @@ function Header(){
 
   return (
 
-    <header className="bg-blue-500 h-screen w-screen">
+    <header id="header" className="bg-blue-500 h-screen w-screen">
 
       <div className="flex flex-col items-center justify-center w-full h-full pb-32">
           <p className="font-mansalva text-white text-5xl">Oi, eu sou o</p>
